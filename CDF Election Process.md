@@ -30,7 +30,7 @@ Nomination period is open for two weeks prior to the election cycle.
 
 ### How to Nominate
 
-<span style="text-decoration:underline;">The nomination phase is 2 weeks</span>
+<span style="text-decoration:underline;">The nomination phase is 1 week</span>
 
 Individuals interested in running for these positions or individuals interested to nominate others must record the nominations under corresponding GitHub issues with the name of the candidate, their biography and statement of intent on why they would be a good person to hold the position.
 
