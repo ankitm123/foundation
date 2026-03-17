@@ -110,7 +110,7 @@ Nominations are dependent on the position up for election. Please see the list b
 
 ## Voting
 
-Nominees will be announced on the [CDF website](https://cd.foundation/news/) the day prior to the start of the Voting Phase and the links to the announcement will be shared on corresponding Slack Channels and maillists. Ballots will be distributed via Google Form links.
+Nominees will be announced on the [CDF website](https://cd.foundation/news/) the day prior to the start of the Voting Phase and the links to the announcement will be shared on corresponding Slack Channels and maillists. Ballots will be distributed via LFX Voting links.
 
 
 ### How to Vote
