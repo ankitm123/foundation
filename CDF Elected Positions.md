@@ -4,7 +4,7 @@
 
 ### Chair
 
-Term: 2 years (Re-elected) 1/2024-1/2026
+Term: 2 years (Re-elected) 1/2026-1/2028
 
 Current Representative: Dadisi Sanyika, Apple
 
@@ -18,30 +18,30 @@ Current Representative: Ole Lensmar, Testkube
 
 ### General Member Representative 2
 
-Term: 1 year 2/14/2023-2/14/2024
+Term: 2 years 2/20/2026-2/19/2028
 
-Current Representative: Gerard Mcmahon, Fidelity Investments
+Current Representative: Steve Fenton, Octopus Deploy
 
 
 ### Committer/Contributor Representative 1
 
-Term: 1 year 2/1/2025-2/1/2026
+Term: 2 years 2/1/2025-2/1/2026
 
 Current Representative: Sasha Wharton, Nagarro
 
 
 ### Committer/Contributor Representative 2
 
-Term: 1 year 7/18/2023-7/17/2024
+Term: 2 years 2/20/2026-2/19/2028
 
-Current Representative: Mark Waite, CloudBees
+Current Representative: Mark Waite
 
 
 ### Treasurer/ Budget Committee Chair
 
 Term: 1 year
 
-Current Representative: N/A
+Current Representative: Mark Waite
 
 
 ## Technical Oversight Committee
