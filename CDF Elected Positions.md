@@ -16,13 +16,6 @@ Term: 1 year 5/25/2023-5/24/2024
 Current Representative: Ole Lensmar, Testkube
 
 
-### General Member Representative 2
-
-Term: 1 year 2/14/2023-2/14/2024
-
-Current Representative: Gerard Mcmahon, Fidelity Investments
-
-
 ### Committer/Contributor Representative 1
 
 Term: 1 year 2/1/2025-2/1/2026
