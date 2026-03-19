@@ -11,14 +11,7 @@ Current Representative: Dadisi Sanyika, Apple
 
 ### General Member Representative 1
 
-Term: 1 year 5/25/2023-5/24/2024
-
-Current Representative: Ole Lensmar, Testkube
-
-
-### General Member Representative 2
-
-Term: 2 years 2/20/2026-2/19/2028
+Term: 1 years 2/20/2026-2/19/2027
 
 Current Representative: Steve Fenton, Octopus Deploy
 
@@ -32,14 +25,14 @@ Current Representative: Sasha Wharton, Nagarro
 
 ### Committer/Contributor Representative 2
 
-Term: 2 years 2/20/2026-2/19/2028
+Term: 2 years 2/20/2026-2/19/2027
 
 Current Representative: Mark Waite
 
 
 ### Treasurer/ Budget Committee Chair
 
-Term: 1 year
+Term: 2 years
 
 Current Representative: Mark Waite
 
