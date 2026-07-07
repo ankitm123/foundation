@@ -34,6 +34,38 @@ The winners are announced during the yearly cdCon event. The breakdown of votes 
 
 ## Previously Awarded
 
+### 2026 Winners
+#### Top CDF Ambassador
+* Kris Buytaert
+
+#### Top CDF Contributor
+* Dadisi Sanyika
+
+#### Top Doc(umenter)
+* Ann Marie Fred
+
+#### Continuous Enthusiast
+* Roxanne Joncas
+
+#### Top CDF End User
+* Capital One
+
+#### Most Valuable Project Contributors
+* CDEvents: David Bernard
+* JayeX: Jordan Goasdoué
+* Jenkins: Daniel Krämer
+* Ortelius: Jing Chen
+* Screwdriver: Yuki Okesaku
+* Spinnaker: Joe Cavanagh
+
+#### Jenkins Security MVP
+* Kevin Guerroudj
+
+#### Jenkins Most Valuable Advocate
+* Bruno Verachten
+
+The award officers were: Alexander Brandes and Nikunj Doshi
+
 ### 2025 Winners
 #### Top CDF Ambassador
 * [Lisa N. Cao](https://github.com/lisancao)
