@@ -29,8 +29,10 @@
 * How to Talk about CDF
     * A [Prime Guide to Continuous Delivery Foundation](https://docs.google.com/presentation/d/1LpKf55anD-0H6m_k-pe1ZGqGLXxx7HPc-mEv2G5X1bw/edit#slide=id.g135f7656ae2_0_857) with recommendations for CDF Talks/Presentations
 * Social
-    * [Twitter](https://twitter.com/CDeliveryFdn)
+    * [Bluesky](https://social.lfx.dev/@CDeliveryFdn)
+    * [Mastodon](https://social.lfx.dev/@CDeliveryFdn)
     * [LinkedIn](https://www.linkedin.com/company/19100461)
+    * [X/Twitter](https://twitter.com/CDeliveryFdn)
     * [YouTube](https://www.youtube.com/continuousdeliveryfoundation)
     * [Website](https://cd.foundation/)
 * CDF Project Assets
@@ -39,10 +41,10 @@
 ## Community Resources
 
   * [Community Calendar](https://calendar.google.com/calendar/u/0/embed?src=linuxfoundation.org_mhf0kmgedn67ihni8r129avp24@group.calendar.google.com&ctz=UTC)
-  * [CDF Events](https://cd.foundation/events/list/)
+  * [CDF Event Calendar](https://cd.foundation/events/list/)
   * [GitHub](https://github.com/cdfoundation) 
   * [Slack Guidelines](https://github.com/cdfoundation/foundation/blob/main/CDF%20Slack%20Guidelines.md)
-  * [Join CDF Slack](https://join.slack.com/t/cdeliveryfdn/shared_invite/zt-nwc0jjd0-G65oEpv5ynFfPD5oOX5Ogg)
+  * [Join CDF Slack](https://join.slack.com/t/cdeliveryfdn/shared_invite/zt-44c6rpi1z-dFDPNRchD37ehiyB6QcdnQ)
   * Community Mailing Lists
       * [All Public Mail Lists](https://lists.cd.foundation/g/main/subgroups)
       * [Technical Oversight Committee(TOC)](https://lists.cd.foundation/g/cdf-toc)
